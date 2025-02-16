@@ -1,34 +1,7 @@
-<<<<<<< HEAD
-# Blood-Bank-Application
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Blood-Bank-Application
-=======
-Blood_Bank
->>>>>>> adc62a1 (Initial commit)
-=======
-Our Blood_Bank Project for our 
+# Blood Bank Application
 
-3rd year 1st semester Database Project.
+#### This project was developed as part of my third-year, first-semester database course. It is a database-driven system designed to efficiently store, manage, and retrieve information about blood donors and recipients. The system enables users to register as donors or recipients, search for eligible donors based on location and blood type, and update their profiles.
 
-Course ID: CSE4508
+#### Blood bank management is a critical application of database systems, requiring efficient data storage, retrieval, and updates. The project was implemented using PL/SQL, with stored procedures to handle insert, update, and delete operations, as well as donor eligibility updates and search functionalities based on various attributes like name, ID, area, and blood group.
 
-Course Teacher: Shahriar Ivan Sir
-
-Team Members:
-
-1.Md. Safirur Rashid
-
-  ID:170041020
-  
-2.Mosammat Rifaa Juhani
-
-  ID:170041023
-  
-3.Ahmed Azaz Humdoon
-
-  ID:170041032
-
->>>>>>> bc03724 (Update README.md)
->>>>>>> e34cff2 (uploaded all the project files)
+#### I worked on implementing PL/SQL procedures and queries to manage donor and recipient records, enforce donor eligibility rules, and optimize search functionality. Additionally, I gained experience in SQL development, relational database design, and integrating databases with applications.
